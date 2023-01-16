@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Second developer commit:',
+              'Third developer commit:',
             ),
             Text(
               '$_counter',
