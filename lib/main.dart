@@ -97,7 +97,11 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text(
 <<<<<<< HEAD
+<<<<<<< HEAD
               'Third developer commit:',
+=======
+              'Fourth feature commit:',
+>>>>>>> eb2f78a ( fourth feature commit)
 =======
               'Fourth feature commit:',
 >>>>>>> eb2f78a ( fourth feature commit)
